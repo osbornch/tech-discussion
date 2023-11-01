@@ -1,5 +1,6 @@
-﻿
-# We want to cover the basics for good engineers mindset and knowledge in this repo, it will cover system design and coding
+﻿![Alt text](image.png)
+# Goal
+We want to cover the basics for good engineers mindset and knowledge in this repo, it will cover system design and coding
 
 # Weekly update
 
