@@ -33,10 +33,17 @@ We want to cover the basics for good engineers mindset and knowledge in this rep
 
 ### Behavior
 #### STAR
+https://www.amazon.jobs/content/en/our-workplace/leadership-principles
+
+
 Scenario
 Task
 Action
 Result
+
+example:
+https://mentorcruise.com/blog/amazon-star-method-sample-answers-6dc3e/
+
 
 #### Technical leadership
 What technical decision you have made
