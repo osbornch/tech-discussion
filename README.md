@@ -32,9 +32,20 @@ We want to cover the basics for good engineers mindset and knowledge in this rep
     3. How to calculate QPS in big system
 
 ### Behavior
+#### STAR
+Scenario
+Task
+Action
+Result
+
 #### Technical leadership
+What technical decision you have made
+
 #### Technical debt
+What technical debt you have been facing and how you contribute
+
 #### Technical innovation
+What technical innovation you have done
 
 ## Next topic
 Twitter design
