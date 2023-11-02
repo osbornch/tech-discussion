@@ -1,6 +1,6 @@
 ﻿![Alt text](image.png)
 # Goal
-We want to cover the basics for good engineers mindset and knowledge in this repo, it will cover system design and coding
+We want to cover the basics for good engineers mindset and knowledge in this repo, it will cover system design, coding and behavior
 
 # Weekly update
 
@@ -8,6 +8,7 @@ We want to cover the basics for good engineers mindset and knowledge in this rep
 
 (Chao to update)
 
+### System design
 ### Summarize what has been discussed
 
 1. We have been discussing the monolithic design and distributed design for key value db
@@ -30,6 +31,10 @@ We want to cover the basics for good engineers mindset and knowledge in this rep
     2. consistent hashing
     3. How to calculate QPS in big system
 
+### Behavior
+#### Technical leadership
+#### Technical debt
+#### Technical innovation
 
 ## Next topic
 Twitter design
